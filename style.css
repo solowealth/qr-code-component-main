@@ -1,0 +1,47 @@
+*{
+    border: 0px;
+    margin: 0px
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.outer-container{
+    text-align: center; 
+
+}
+
+.inner-container{
+    margin: auto;
+    margin-top: 100px;
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#h2{
+    color: hsl(218, 44%, 22%);
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+
+}
+
+#p{
+    color: rgba(128, 128, 128, 0.989);
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 13px;
+}
